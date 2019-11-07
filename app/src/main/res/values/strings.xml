@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="Loan_period">Loan period:</string>
+    <string name="Car_Price">Car price:</string>
+    <string name="Down_payment">Down payment:</string>
+    <string name="Interest_rate">Interest rate:</string>
+    <string name="Car_loan">Car loan:</string>
+    <string name="Interest">Interest:</string>
+    <string name="Monthly_repayment">Monthly repayment:</string>
+    <string name="Calculate">Calculate</string>
+    <string name="developer">Developed by Ooi Zhong Yi</string>
+</resources>
